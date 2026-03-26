@@ -1,6 +1,6 @@
 # substack-stacker
 
-Turn any Substack into a single .docx file. All posts, one document, like a little book.
+Combine Substack posts into a single .docx file. All posts, stacked into one document, like a little book.
 
 ## Setup
 
